@@ -4,7 +4,7 @@
 
 <h2> ℹ️ &nbsp;Who am I? </h2>
   <p>
-    Hey, I'm a Junior <b> DevOps </b> and <b> Student </b> at <i> EPITA </i> who loves to play Video Games and TTRPG's ! <br>
+    Hey, I'm a Junior <b> Developer <b> and <b> DevOps </b> and <b> Student </b> at <i> EPITA </i> who loves to play Video Games and TTRPG's ! <br>
     I usually make repos out of School Work or Open-Source solutions I make for my Job. <br>
     <b>Feel free to check my pinned repos <i> (below this readme) </i> or check all my repos <i> (thanks to the tab above this readme) </i> ! </b> <br>
     You can still follow my GitHub if you think I could make something interesting for you.
