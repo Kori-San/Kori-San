@@ -1,4 +1,4 @@
-<h2 align="center"> Helllo there and welcome to my GitHub page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h2 align="center"> Hello there and welcome to my GitHub page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 
 <h4 align='center'> Kori-San, Apprenticeship Enjoyer since 2019. </h4>
 
