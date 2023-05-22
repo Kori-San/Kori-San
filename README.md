@@ -6,5 +6,5 @@
   <p align="center"> Hey, I'm a Junior <b> Developer <b> and <b> DevOps </b> who loves to play Video Games and TTRPG's ! </p>
   <p align="center"> I usually make repos out of School Work or Open-Source solutions I make for my Job. </p>
   <p align="center"> <b> Feel free to check my pinned repos or check all my repos ! </b> </p>
-  <p align="center"> <i> You can check my Portfolio -> <a href="https://kori-san.github.io">Here </a> </i> </p>
+  <p align="center"> <i> You can check my Portfolio -> <a href="https://kori-san.github.io">Here </a> </i>. </p>
   
