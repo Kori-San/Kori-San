@@ -9,6 +9,6 @@
 
 <h1 align="center"> ✨ Statistics ! </h1>
 <p align="center">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=kori-san&theme=tokyonight"></image>
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=kori-san&theme=tokyonight&hide=shaderlab"></image>
   <image src="https://github-readme-stats.vercel.app/api?username=kori-san&theme=tokyonight&show_icons=true"></image>
 </p>
